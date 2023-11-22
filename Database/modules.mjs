@@ -1,4 +1,4 @@
-[
+const modules = [
   {
       "_id": "M101",
       "name": "Introduction to Web Development",
@@ -120,3 +120,5 @@
       "course": "CS6400"
   }
 ]
+
+export { modules };
