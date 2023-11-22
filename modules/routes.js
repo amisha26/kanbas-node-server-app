@@ -10,7 +10,8 @@ function ModuleRoutes(app) {
         course: cid,
         _id: new Date().getTime().toString(),
       };
-      db.modules.push(newModule);
+      //db.modules.push(newModule);
+      db.modules = [newModule, ...db.modules]
       res.send(newModule);
     } catch (error) {
       console.error("Error handling POST module request:", error);
