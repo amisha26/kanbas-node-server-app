@@ -1,4 +1,4 @@
-[
+const courses = [
   {
     "_id": "CS5000",
     "name": "Web Development",
@@ -49,3 +49,5 @@
     "endDate": "2023-05-15"
   }
 ]
+
+export { courses };
