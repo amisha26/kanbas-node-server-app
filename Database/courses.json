@@ -8,14 +8,14 @@
   },
   {
     "_id": "CS5520",
-    "name": "Mobile App Development",
+    "name": "Aerodynamics",
     "number": "CS5520",
     "startDate": "2023-01-10",
     "endDate": "2023-05-15"
   },
   {
     "_id": "CS6000",
-    "name": "Machine Learning",
+    "name": "Spacecraft Design",
     "number": "CS6000",
     "startDate": "2023-01-10",
     "endDate": "2023-05-15"
